@@ -1,0 +1,10 @@
+{
+  "name": "airport-images",
+  "version": "0.1.0",
+  "dependencies": {
+    "download": "^7.1.0",
+    "ramda": "^0.26.1"
+  },
+  "author": "Nghiep <me@nghiepit.dev>",
+  "license": "MIT"
+}

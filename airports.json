@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tân Sơn Nhất",
+    "city": "TP Hồ Chí Minh",
+    "code": "SGN",
+    "short_name": "TP.HCM",
+    "lat": 10.818797,
+    "lng": 106.651856
+  },
+  {
+    "name": "Nội Bài",
+    "city": "Hà Nội",
+    "code": "HAN",
+    "short_name": "Hà Nội",
+    "lat": 21.221192,
+    "lng": 105.807178
+  },
+  {
+    "name": "Đà nẵng",
+    "city": "Đà nẵng",
+    "code": "DAD",
+    "short_name": "Đ.Nẵng",
+    "lat": 16.043917,
+    "lng": 108.19937
+  }
+]
